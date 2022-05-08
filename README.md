@@ -7,3 +7,8 @@ Replace this
 
 with this
 ![Custom AndroidAuto icon](https://github.com/mrfixpl/mib2-porsche-androidAuto-icon/blob/main/custom/30/3000087.png?raw=true)
+
+## Usage
+* Access MIB2 filesystem,
+* Replace original skin icon `30/3000087.png` with the one from `custom/30/`,
+* Reboot unit and hope it will work.
